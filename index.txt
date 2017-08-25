@@ -1,5 +1,7 @@
 m/title.ipynb
+m/usertest_notice.ipynb
 m/outline.ipynb
 m/nbformat and nbconvert.ipynb
 jess/Jupyter Notebooks as Assignments.ipynb
 m/outline.ipynb
+m/usertest_notice.ipynb
