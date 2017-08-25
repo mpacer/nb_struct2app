@@ -3,6 +3,8 @@ m/usertest_notice.ipynb
 m/outline.ipynb
 m/nbformat.ipynb
 m/nbconvert.ipynb
+damian/Nikola.ipynb
+damian/RISE.ipynb
 jess/Jupyter Notebooks as Assignments.ipynb
 m/outline.ipynb
 m/usertest_notice.ipynb
