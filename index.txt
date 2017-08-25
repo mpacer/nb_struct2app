@@ -5,6 +5,6 @@ m/nbformat.ipynb
 m/nbconvert.ipynb
 damian/Nikola.ipynb
 damian/RISE.ipynb
-jess/Jupyter Notebooks as Assignments.ipynb
+jess/nbgrader.ipynb
 m/outline.ipynb
 m/usertest_notice.ipynb
