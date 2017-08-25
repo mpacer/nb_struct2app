@@ -102,3 +102,5 @@ ENV/
 
 course101/gradebook.db
 combined_nb.ipynb
+
+*.db
