@@ -8,3 +8,4 @@ damian/RISE.ipynb
 nbgrader.ipynb
 m/outline.ipynb
 m/usertest_notice.ipynb
+m/thanks.ipynb
