@@ -101,6 +101,5 @@ ENV/
 .mypy_cache/
 
 course101/gradebook.db
-combined_nb.ipynb
 
 *.db
